@@ -40,21 +40,21 @@ name), pagination, saving data to session, custom hooks, etc. (React)</br>
 
 <tr>
   <td><img src ="/four_game.jpg" width = "400px"></td>
-<td>Connect Four Game - task from frontendmentor.io(React)</br>
+<td>Connect Four Game - task from frontendmentor.io (React)</br>
 <b>   <a href="https://aperegontsev.github.io/cra_connect_four_game/"><b>Demo >></b></a>
   </td>
 </tr>
 
 <tr>
   <td><img src ="/memory_game.jpg" width = "400px"></td>
-<td>Memory Game - task from frontendmentor.io(React)</br>
+<td>Memory Game - task from frontendmentor.io (React)</br>
 <b>   <a href="https://aperegontsev.github.io/cra_memory_game/"><b>Demo >></b></a>
   </td>
 </tr>
 
 <tr>
   <td><img src ="/feed_back_app.jpg" width = "400px"></td>
-<td>Create Feedback App - task from frontendmentor.io(React)</br>
+<td>Create Feedback App - task from frontendmentor.io (React)</br>
 <b>   <a href="https://aperegontsev.github.io"><b>Demo >></b></a>
   </td>
 </tr>
