@@ -8,14 +8,33 @@ I work according to the principle of "Getting Things Done" - till the victorious
 HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | REST API | OOP | Typescript | Node JS | Express JS</br>
 
 <b>Some of my recent projects:</b>
-<pre>Custom table built from data obtained via API: advanced search (highlighting of the 
+<table>
+<thead>
+<tr>
+<th>Preview</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src ="/custom_table.jpg" width = "400px"></td>
+<td>Custom table built from data obtained via API: advanced search (highlighting of the 
 searching fragment), advanced sorting (descending / ascending by clicking on the column 
-name), pagination, saving data to session, custom hooks, etc. (React)</pre>
-<b>   Demo:</b> https://aperegontsev.github.io/cra_custom_table_advanced/
-<pre>Custom multi-select as a separate component (React | TS)</pre>
-<b>   Demo:</b> https://aperegontsev.github.io/cra_multiselect_component/
-<pre>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</pre>
-<b>   Demo:</b> https://aperegontsev.github.io/cra_test_shop_front/</br>
+name), pagination, saving data to session, custom hooks, etc. (React)</br>
+<b>   Demo:</b> https://aperegontsev.github.io/cra_custom_table_advanced/</td>
+</tr>
+  <td><img src ="/custom_table.jpg" width = "400px"></td>
+<td>Custom multi-select as a separate component (React | TS)</br>
+<b>   Demo:</b> https://aperegontsev.github.io/cra_multiselect_component/</td>
+</tr>
+</tr>
+  <td><img src ="/custom_table.jpg" width = "400px"></td>
+<td>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</br>
+<b>   Demo:</b> https://aperegontsev.github.io/cra_test_shop_front/</td>
+</tr>
+  
+</tbody>
+</table>
 
 <b>Completed almost all tasks on the frontendmentor.io, below are some of them (made with 
 React):</b>
