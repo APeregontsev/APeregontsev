@@ -16,29 +16,48 @@ HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | 
 </tr>
 </thead>
 <tbody>
-<tr>
+
+    <tr>
 <td><img src ="/custom_table.jpg" width = "400px"></td>
 <td>Custom table built from data obtained via API: advanced search (highlighting of the 
 searching fragment), advanced sorting (descending / ascending by clicking on the column 
 name), pagination, saving data to session, custom hooks, etc. (React)</br>
     <a href="https://aperegontsev.github.io/cra_custom_table_advanced/"><b>Demo >></b></a>  </td>
 </tr>
+<tr>
   <td><img src ="/custom_multiselect.jpg" width = "400px"></td>
 <td>Custom multi-select as a separate component (React | TS)</br>
 <b>    <a href="https://aperegontsev.github.io/cra_multiselect_component/"><b>Demo >></b></a>   </td>
   </tr>
-</tr>
+    
+<tr>
   <td><img src ="/test_shop.jpg" width = "400px"></td>
 <td>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</br>
 <b>   <a href="https://aperegontsev.github.io/cra_test_shop_front/"><b>Demo >></b></a>
   </td>
 </tr>
+
+<tr>
+  <td><img src ="/four_game.jpg" width = "400px"></td>
+<td>Connect Four Game - task from frontendmentor.io(React)</br>
+<b>   <a href="https://aperegontsev.github.io/cra_connect_four_game/"><b>Demo >></b></a>
+  </td>
+</tr>
+
+<tr>
+  <td><img src ="/memory_game.jpg" width = "400px"></td>
+<td>Memory Game - task from frontendmentor.io(React)</br>
+<b>   <a href="https://aperegontsev.github.io/cra_memory_game/"><b>Demo >></b></a>
+  </td>
+</tr>
+
+<tr>
+  <td><img src ="/feed_back_app.jpg" width = "400px"></td>
+<td>Create Feedback App - task from frontendmentor.io(React)</br>
+<b>   <a href="https://aperegontsev.github.io"><b>Demo >></b></a>
+  </td>
+</tr>
+
   
 </tbody>
 </table>
-
-<b>Completed almost all tasks on the frontendmentor.io, below are some of them (made with 
-React):</b>
-1) Connect Four Game - https://aperegontsev.github.io/cra_connect_four_game/
-2) Memory Game - https://aperegontsev.github.io/cra_memory_game/
-3) Create Feedback App - https://aperegontsev.github.io
