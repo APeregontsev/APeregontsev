@@ -17,7 +17,7 @@ name), pagination, saving data to session, custom hooks, etc. (React)</pre>
 <pre>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</pre>
 <b>   Deploy:</b> https://aperegontsev.github.io/cra_test_shop_front/</br>
 
-<b>Completed almost all tasks on the frontendmentor.io, below are some of them (made on 
+<b>Completed almost all tasks on the frontendmentor.io, below are some of them (made with 
 React):</b>
 1) Connect Four Game - https://aperegontsev.github.io/cra_connect_four_game/
 2) Memory Game - https://aperegontsev.github.io/cra_memory_game/
