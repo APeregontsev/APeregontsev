@@ -2,7 +2,7 @@
 
 Worked as a business analyst for 12 years, now I want to switch to development.
 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, history.</br>
-I work according to the principle of "things to be done" - till the victorious end.</br>
+I work according to the principle of "Getting Things Done" - till the victorious end.</br>
 
 <b>My technology stack:</b></br>
 HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | REST API | OOP | Typescript | Node JS | Express JS</br>
