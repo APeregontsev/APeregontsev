@@ -8,6 +8,7 @@ I work according to the principle of "Getting Things Done" - till the victorious
 HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | REST API | OOP | Typescript | Node JS | Express JS</br>
 
 <b>Some of my recent projects:</b>
+
 <table>
 <thead>
 <tr>
@@ -17,7 +18,7 @@ HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | 
 </thead>
 <tbody>
 
-    <tr>
+  
 <td><img src ="/custom_table.jpg" width = "400px"></td>
 <td>Custom table built from data obtained via API: advanced search (highlighting of the 
 searching fragment), advanced sorting (descending / ascending by clicking on the column 
