@@ -11,11 +11,11 @@ HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | 
 <pre>Custom table built from data obtained via API: advanced search (highlighting of the 
 searching fragment), advanced sorting (descending / ascending by clicking on the column 
 name), pagination, saving data to session, custom hooks, etc. (React)</pre>
-<b>   Deploy:</b> https://aperegontsev.github.io/cra_custom_table_advanced/
+<b>   Demo:</b> https://aperegontsev.github.io/cra_custom_table_advanced/
 <pre>Custom multi-select as a separate component (React | TS)</pre>
-<b>   Deploy:</b> https://aperegontsev.github.io/cra_multiselect_component/
+<b>   Demo:</b> https://aperegontsev.github.io/cra_multiselect_component/
 <pre>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</pre>
-<b>   Deploy:</b> https://aperegontsev.github.io/cra_test_shop_front/</br>
+<b>   Demo:</b> https://aperegontsev.github.io/cra_test_shop_front/</br>
 
 <b>Completed almost all tasks on the frontendmentor.io, below are some of them (made with 
 React):</b>
