@@ -8,7 +8,7 @@ I work according to the principle of "things to be done" - till the victorious e
 HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | REST API | OOP | Typescript | Node JS | Express JS</br>
 
 <b>Some of my recent projects:</b>
-<pre>Custom table build from data obtained via API: advanced search (highlighting of the 
+<pre>Custom table built from data obtained via API: advanced search (highlighting of the 
 searching fragment), advanced sorting (descending / ascending by clicking on the column 
 name), pagination, saving data to session, custom hooks, etc. (React)</pre>
 <b>   Deploy:</b> https://aperegontsev.github.io/cra_custom_table_advanced/
