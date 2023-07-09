@@ -23,12 +23,12 @@ searching fragment), advanced sorting (descending / ascending by clicking on the
 name), pagination, saving data to session, custom hooks, etc. (React)</br>
 <b>   Demo:</b> https://aperegontsev.github.io/cra_custom_table_advanced/</td>
 </tr>
-  <td><img src ="/custom_table.jpg" width = "400px"></td>
+  <td><img src ="/custom_multiselect.jpg" width = "400px"></td>
 <td>Custom multi-select as a separate component (React | TS)</br>
 <b>   Demo:</b> https://aperegontsev.github.io/cra_multiselect_component/</td>
 </tr>
 </tr>
-  <td><img src ="/custom_table.jpg" width = "400px"></td>
+  <td><img src ="/test_shop.jpg" width = "400px"></td>
 <td>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</br>
 <b>   Demo:</b> https://aperegontsev.github.io/cra_test_shop_front/</td>
 </tr>
