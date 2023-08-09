@@ -49,6 +49,16 @@ When a new request comes in, spins up automatically - in 30-40 seconds, so just 
 </tr>
 
 <tr>
+  <td><img src ="/weather_app.jpg" width = "400px"></td>
+<td>Weather App (React | TS | CSS Modules | SCSS | Custom Hooks)</br>
+
+
+  <a href="https://aperegontsev.github.io/cra_weather_app/"><b>Demo >></b></a>
+  
+  </td>
+</tr>
+
+<tr>
   <td><img src ="/four_game.jpg" width = "400px"></td>
 <td>Connect Four Game - task from frontendmentor.io (React)</br>
   <a href="https://aperegontsev.github.io/cra_connect_four_game/"><b>Demo >></b></a>
