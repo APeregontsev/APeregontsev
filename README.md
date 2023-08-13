@@ -26,7 +26,7 @@ One of my recent projects!</br>
   </tr>
   
    <tr>
-  <td><img src ="/date_picker.jpg" width = "400px"></td>
+  <td><img src ="/custom_date_picker.jpg" width = "400px"></td>
 <td>Custom Date Picker (React | TS )</br>
 Built without any third-party libraries. </br>
  <a href="https://aperegontsev.github.io/cra_kanban_board/"><b>Demo >></b></a>   </td>
