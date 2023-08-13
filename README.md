@@ -27,7 +27,7 @@ One of my recent projects!</br>
   
    <tr>
   <td><img src ="/custom_date_picker.jpg" width = "400px"></td>
-<td>Custom Date Picker (React | TS )</br>
+<td>Custom Date Picker as a separate component (React | TS )</br>
 Built without any third-party libraries. </br>
  <a href="https://aperegontsev.github.io/cra_date_picker/"><b>Demo >></b></a>   </td>
   </tr>
