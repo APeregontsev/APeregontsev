@@ -29,7 +29,7 @@ One of my recent projects!</br>
   <td><img src ="/custom_date_picker.jpg" width = "400px"></td>
 <td>Custom Date Picker (React | TS )</br>
 Built without any third-party libraries. </br>
- <a href="https://aperegontsev.github.io/cra_kanban_board/"><b>Demo >></b></a>   </td>
+ <a href="https://aperegontsev.github.io/cra_date_picker/"><b>Demo >></b></a>   </td>
   </tr>
  
 <tr>
