@@ -19,8 +19,8 @@ HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | 
 <tbody>
 
   <tr>
-  <td><img src ="/kanban_board.jpg" width = "400px"><img src ="/kanban_board.jpg" width = "400px"</td>
-<td>Kanban Board (React | TS | Redux\Toolkit | Custom hooks | Drag-and-drop)</br>
+  <td><img src ="/kanban_board.jpg" width = "200px"></td>
+   <td>Kanban Board (React | TS | Redux\Toolkit | Custom hooks | Drag-and-drop)</br>
 One of my recent projects!</br>
  <a href="https://aperegontsev.github.io/cra_kanban_board/"><b>Demo >></b></a>   </td>
   </tr>
