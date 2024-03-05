@@ -20,7 +20,7 @@ HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | React-hooks | Custo
 
 
   <tr>
-  <td><img src ="/Dashboard_1.png" width = "200px"><img src ="/Dashboard_2.png" width = "100px"><img src ="/Dashboard_3.png" width = "100px"><img src ="/Dashboard_4.png" width = "100px"></td>
+  <td><img src ="/Dashboard_1.png" width = "200px"><img src ="/Dashboard_2.png" width = "95px"><img src ="/Dashboard_3.png" width = "95px"><img src ="/Dashboard_4.png" width = "95px"></td>
    <td><b>Admin Dashboard</b> (React | TS | Redux\Toolkit | Custom hooks | React Router | Styled-components | Axios | React Hook Form | Recharts | Firebase | Jest | Cypress | PWA)</br>
 One of my recent projects!</br>
  <a href="https://vite-admin-dashboard.vercel.app/auth/login"><b>Demo >></b></a>   </td>
