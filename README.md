@@ -5,7 +5,7 @@ I'm currently looking for opportunities. I love to learn and contribute in any a
 I work according to the principle of "Getting Things Done" - till the victorious end.</br>
 
 <b>My technology stack:</b></br>
-HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | REST API | OOP | Typescript | Node JS | Express JS</br>
+HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | Styled-components | REST API | OOP | Node JS | Express JS | Nest JS | React-hook-form </br>
 
 <b>Some of my recent projects:</b>
 
@@ -18,36 +18,44 @@ HTML5 | CSS3 | JS | React | Redux | React-hooks | Custom hooks | React-router | 
 </thead>
 <tbody>
 
+
   <tr>
   <td><img src ="/kanban_board.jpg" width = "200px"></td>
-   <td>Kanban Board (React | TS | Redux\Toolkit | Custom hooks | Drag-and-drop)</br>
+   <td><b>Admin Dashboard</b> (React | TS | Redux\Toolkit | Custom hooks | React Router | Styled-components | Axios | React Hook Form | Recharts | Firebase | Jest | Cypress | PWA)</br>
 One of my recent projects!</br>
+ <a href="https://vite-admin-dashboard.vercel.app/auth/login"><b>Demo >></b></a>   </td>
+  </tr>
+
+  
+  <tr>
+  <td><img src ="/kanban_board.jpg" width = "200px"></td>
+   <td><b>Kanban Board</b> (React | TS | Redux\Toolkit | Custom hooks | Drag-and-drop)</br>
  <a href="https://aperegontsev.github.io/cra_kanban_board/"><b>Demo >></b></a>   </td>
   </tr>
   
    <tr>
   <td><img src ="/custom_date_picker.jpg" width = "400px"></td>
-<td>Custom Date Picker as a separate component (React | TS | CSS Modules | SCSS)</br>
+<td><b>Custom Date Picker</b> as a separate component (React | TS | CSS Modules | SCSS)</br>
 Built without any third-party libraries. </br>
  <a href="https://aperegontsev.github.io/cra_date_picker/"><b>Demo >></b></a>   </td>
   </tr>
  
 <tr>
 <td><img src ="/custom_table.jpg" width = "400px"></td>
-<td>Custom table built from data obtained via API: advanced search (highlighting of the 
+<td><b>Custom table</b> built from data obtained via API: advanced search (highlighting of the 
 searching fragment), advanced sorting (descending / ascending by clicking on the column 
 name), advanced pagination, saving data to session, custom hooks, etc. (React)</br>
     <a href="https://aperegontsev.github.io/cra_custom_table_advanced/"><b>Demo >></b></a>  </td>
 </tr>
 <tr>
   <td><img src ="/custom_multiselect.jpg" width = "400px"></td>
-<td>Custom multi-select as a separate component (React | TS)</br>
+<td><b>Custom multi-select</b> as a separate component (React | TS)</br>
  <a href="https://aperegontsev.github.io/cra_multiselect_component/"><b>Demo >></b></a>   </td>
   </tr>
     
 <tr>
   <td><img src ="/test_shop.jpg" width = "400px"></td>
-<td>Test internet shop (React | Redux, backend made with Node.js | Express | MySQL)</br>
+<td><b>Test internet shop</b> (React | Redux, backend made with Node.js | Express | MySQL)</br>
 
 
   <a href="https://aperegontsev.github.io/cra_test_shop_front/"><b>Demo >></b></a>
@@ -58,7 +66,7 @@ When a new request comes in, spins up automatically - in 30-40 seconds, so just 
 
 <tr>
   <td><img src ="/weather_app.jpg" width = "400px"></td>
-<td>Weather App (React | TS | CSS Modules | SCSS | Custom Hooks)</br>
+<td><b>Weather App</b> (React | TS | CSS Modules | SCSS | Custom Hooks)</br>
 
 
   <a href="https://aperegontsev.github.io/cra_weather_app/"><b>Demo >></b></a>
@@ -68,21 +76,21 @@ When a new request comes in, spins up automatically - in 30-40 seconds, so just 
 
 <tr>
   <td><img src ="/four_game.jpg" width = "400px"></td>
-<td>Connect Four Game - task from frontendmentor.io (React)</br>
+<td><b>Connect Four Game</b> - task from frontendmentor.io (React)</br>
   <a href="https://aperegontsev.github.io/cra_connect_four_game/"><b>Demo >></b></a>
   </td>
 </tr>
 
 <tr>
   <td><img src ="/memory_game.jpg" width = "400px"></td>
-<td>Memory Game - task from frontendmentor.io (React)</br>
+<td><b>Memory Game</b> - task from frontendmentor.io (React)</br>
    <a href="https://aperegontsev.github.io/cra_memory_game/"><b>Demo >></b></a>
   </td>
 </tr>
 
 <tr>
   <td><img src ="/feed_back_app.jpg" width = "400px"></td>
-<td>Create Feedback App - task from frontendmentor.io (React)</br>
+<td><b>Create Feedback App</b> - task from frontendmentor.io (React)</br>
   <a href="https://aperegontsev.github.io"><b>Demo >></b></a>
   </td>
 </tr>
