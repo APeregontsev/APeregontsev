@@ -5,7 +5,7 @@ I'm currently looking for opportunities. I love to learn and contribute in any a
 I work according to the principle of "Getting Things Done" - till the victorious end.</br>
 
 <b>My technology stack:</b></br>
-HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | Styled-components | REST API | OOP | Node JS | Express JS | Nest JS | React-hook-form </br>
+HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | React-hooks | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | Styled-components | REST API | OOP | Node JS | Express JS | Nest JS | React-hook-form | MUI | Ant Design </br>
 
 <b>Some of my recent projects:</b>
 
@@ -21,7 +21,7 @@ HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | React-hooks | Custo
 
  <tr>
   <td ><img src ="/vite_kanban_board.png" width = "200px"></td>
-   <td><b>Kanban Board using Ant Design</b> (React | TS | Redux\Toolkit | Redux Persist | Axios | Custom hooks | Drag-and-drop | Jest | React testing library | Toastify | Vite)</br>
+   <td><b>Kanban Board using Ant Design</b> (React | TS | Redux\Toolkit | Redux Persist | Axios | Custom hooks | Drag-and-drop | Jest | React testing library | Toastify | Vite | Ant Design)</br>
  <a href="https://aperegontsev.github.io/vite_kanban/"><b>Demo >></b></a>   </td>
   </tr>
 
