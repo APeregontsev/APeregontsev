@@ -19,6 +19,13 @@ HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | React-hooks | Custo
 <tbody>
 
 
+ <tr>
+  <td ><img src ="/vite_kanban_board.png" width = "200px"></td>
+   <td><b>Kanban Board using Ant Design</b> (React | TS | Redux\Toolkit | Redux Persist | Axios | Custom hooks | Drag-and-drop | Jest | React testing library | Toastify | Vite)</br>
+ <a href="https://aperegontsev.github.io/vite_kanban/"><b>Demo >></b></a>   </td>
+  </tr>
+
+
   <tr>
   <td><img src ="/Dashboard_1.png" width = "200px"><img src ="/Dashboard_2.png" width = "95px"><img src ="/Dashboard_3.png" width = "95px"><img src ="/Dashboard_4.png" width = "95px"></td>
    <td><b>Admin Dashboard</b> (React | TS | Redux\Toolkit | Custom hooks | React Router | Styled-components | Axios | React Hook Form | Recharts | Firebase | Jest | Cypress | PWA)</br>
