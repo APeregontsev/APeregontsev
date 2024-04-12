@@ -5,7 +5,7 @@ I'm currently looking for opportunities. I love to learn and contribute in any a
 I work according to the principle of "Getting Things Done" - till the victorious end.</br>
 
 <b>My technology stack:</b></br>
-HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | Redux Persist | Axios | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | Styled-components | REST API | OOP | Node JS | Express JS | Nest JS | React-hook-form | MUI | Ant Design | Jest | React Testing Library </br>
+HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | Redux Persist | Axios | Custom hooks | React-router | CSS Modules | Classnames | Sass | Less | Styled-components | REST API | OOP | Node JS | Express JS | Nest JS | React-hook-form | MUI | Ant Design | Jest | React Testing Library | Cypress </br>
 
 <b>Some of my recent projects:</b>
 
