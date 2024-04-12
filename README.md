@@ -21,7 +21,7 @@ HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | Redux Persist | Axi
 
  <tr>
   <td ><img src ="/vite_kanban_board.png" width = "200px"></td>
-   <td><b>Github Kanban Board using Ant Design</b> (React | TS | Redux\Toolkit | Redux Persist | Axios | Custom hooks | Drag-and-drop | Jest | React testing library | Toastify | Vite | Ant Design)</br>
+   <td><b>GitHub issues kanban board using Ant Design</b> (React | TS | Redux\Toolkit | Redux Persist | Axios | Custom hooks | Drag-and-drop | Jest | React testing library | Toastify | Vite | Ant Design)</br>
    You can enter Github repository URL and see its issues on the board. Position of the issue (its order and column) saved to local storage.</br>
  <a href="https://aperegontsev.github.io/vite_kanban/"><b>Demo >></b></a>   </td>
   </tr>
