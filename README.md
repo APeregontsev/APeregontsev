@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-Worked as a business analyst for 12 years, now I want to switch to development.
+
 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, history.</br>
 I work according to the principle of "Getting Things Done" - till the victorious end.</br>
 
