@@ -23,7 +23,7 @@ HTML5 | CSS3 | JS | Typescript | React | Redux | RTK Query | Redux Persist | Axi
   <img src ="/surround_circles_2.png" width = "95px"><img src ="/surround_circles_3.png" width = "95px"><img src ="/surround_circles_4.png" width = "95px"><img src ="/surround_circles_5.png" width = "95px">
   </td>
    <td><b>Surround Circles Game</b> </br>
-(React | TS | Zustand | Custom hooks | React Hook Form | React-konva | Konva)</br>
+(React | TS | React-konva | Konva | Zustand | Custom hooks | React Hook Form)</br>
       <em>The entire game is rendered on the canvas. You can play against the computer or against another player.</em></br>
  <a href="https://aperegontsev.github.io/vite_surround_circles_game/"><b>Demo >></b></a>   </td>
   </tr>
